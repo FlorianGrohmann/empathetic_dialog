@@ -1,0 +1,19 @@
+finetuning llama:
+    https://www.storminthecastle.com/posts/alpaca_13B/
+    
+    https://www.mlexpert.io/machine-learning/tutorials/alpaca-fine-tuning
+
+    https://github.com/tloen/alpaca-lora
+
+    https://github.com/ZrrSkywalker/LLaMA-Adapter/
+
+    https://github.com/tatsu-lab/stanford_alpaca
+
+    https://huggingface.co/blog/stackllama
+
+    https://medium.com/@zetavg/llama-lora-tuner-ui-tool-to-fine-tune-and-test-your-own-lora-models-704e2e645d5e
+
+
+background knowledge:
+    https://huggingface.co/docs/transformers/index
+    https://x-dev.pages.jsc.fz-juelich.de/2022/07/13/transformers-matmul.html

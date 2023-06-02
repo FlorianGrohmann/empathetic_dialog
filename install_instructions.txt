@@ -1,0 +1,14 @@
+install cuda (linux):
+    check if nvidia driver is installed
+    https://developer.nvidia.com/cuda-downloads
+    export PATH=/usr/local/cuda/bin${PATH:+:${PATH}}
+    export LD_LIBRARY_PATH="/usr/local/cuda/lib64:$LD_LIBRARY_PATH"
+    restart system(very importnant...)
+
+install pytorch:
+    https://pytorch.org/get-started/locally/
+
+llama-7b-hf Model:
+    https://huggingface.co/decapoda-research/llama-7b-hf
+
+
